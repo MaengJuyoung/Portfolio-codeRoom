@@ -1,8 +1,8 @@
-Front-End :
+<b>Front-End :</b>
 <a href = "https://github.com/won-jae-jang">won-jae-jang<a/> , <a href = "https://github.com/SnowsFE">SnowsFE<a/>
 <br>
 
-Back-End :
+<b>Back-End :</b>
 yoonyeongkwan, <a href = "https://github.com/MaengJuyoung">💙MaengJuyoung💙<a/>
 
 https://github.com/SnowsFE/Portfolio-codeRoom/assets/165915760/452a4b56-a4d6-40e6-b067-ac3c146eea25
